@@ -1,0 +1,1366 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A poetical essay towards an epitome of the gospel of the blessed Jesus</title>
+            <author>Atwood, William, d. 1705?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1678</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 61 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A26175</idno>
+            <idno type="STC">Wing A4177</idno>
+            <idno type="STC">ESTC R27744</idno>
+            <idno type="EEBO-CITATION">10140684</idno>
+            <idno type="OCLC">ocm 10140684</idno>
+            <idno type="VID">44584</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A26175)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 44584)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1376:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A poetical essay towards an epitome of the gospel of the blessed Jesus</title>
+                  <author>Atwood, William, d. 1705?</author>
+               </titleStmt>
+               <extent>[3], 23 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1678.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed by Wing to William Atwood.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Jesus Christ --  Biography.</term>
+               <term>Bible. --  N.T. --  Gospels --  Paraphrases, English.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:44584:1" rendition="simple:additions"/>
+            <p>A POETICAL ESSAY TOWARDS AN EPITOME OF THE GOSPEL OF THE BLESSED JESUS.</p>
+            <q>
+               <l>Nec verbum verbo curabis reddere, fidus</l>
+               <l>Interpres: nec defilies imitator in arctum,</l>
+               <l>Unde pedem proferre pudor vetet, aut operis lex.</l>
+               <bibl>Hor. de Arte Poet.</bibl>
+            </q>
+            <figure>
+               <figDesc>device containing royal coat of arms</figDesc>
+               <p>
+                  <label>C R</label>
+               </p>
+               <q>HONI SOIT QVI MAL Y PENSE</q>
+            </figure>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year 1678.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:44584:2"/>
+            <pb facs="tcp:44584:2"/>
+            <head>To the <hi>READER.</hi>
+            </head>
+            <p>TO ſay nothing of this Eſſay, might perhaps argue me of pride, and putting a ſlight upon the Reader; to ſay much, of vain-glory, and ſetting too great a value upon my Verſe, or the Proſe wherewith I would recommend it.</p>
+            <p>The concealing the Author's name, may bring his little Work into ſuſpicion, as if it were a Birth of which the Pa<g ref="char:EOLhyphen"/>rent is aſhamed; for otherwiſe it may be imagined that my vanity would be uniform to its ſelf, and would cauſe me to own what it made me think worth the Printing.</p>
+            <p>But in things of this nature every Man is guided by his particular fancy, and it is mine, that whoever gives his name to the Criticks, does as good as ſend them a challenge, and defie them to find fault with what he has done: for my part, I have not leiſure to contend for the propriety of every expreſſion, or the juſtneſs of the ſence, which I have put upon holy writ; yet I may ſay, 'tis what I thought I found there in other words; and this being pen'd only for my private ſatis<g ref="char:EOLhyphen"/>faction, I took no pains to ſee if others were of the ſame mind with me; nor can I charge my miſpriſions to the account of any Commentator.</p>
+            <p>But as I ſhould be ſorry to bring upon my ſelf the guilt of miſleading any one that truſted to my ſentiments; ſo it would be a great rejoycing to me, and I ſhould obtain my end in making this publick, if, like a weak ray, it might but lead to that Fountain of Light and ſaving Truths, from whence it iſſued, and which cannot but guild the very Clouds that are drawn over it by my unskilful Hand: an attempt to illu<g ref="char:EOLhyphen"/>ſtrate theſe ſacred, many of them Eternal verities, would
+<pb facs="tcp:44584:3"/> be to hold a Candle to the Sun, or to enamel a Diamond: I pretend to no more than, as an Index, to invite to the peruſal of what is contained under ſuch excellent Heads, as cannot but occur in this abſtract.</p>
+            <p>I have endeavoured a continued Poem, and poſſibly the Reader may find a connexion of the whole by tranſitions not very obſcure.</p>
+            <p>If the Twenty third Chapter proves to be a Satyr againſt ſome ſort of Men, I hope they that obſerve the Parallel will not be ſevere upon my verſion; if any that look into it have made themſelves parties, I cannot help their falling into the way: I aim'd at no body, I have received no provocation, neither would I give any: I at firſt only uſed the Chriſtian liberty of free thought; which I had ſtill kept to my ſelf, if I had believed it could do any miſchief in the World, either in giving juſt ſcandal, or breaking the peace of that com<g ref="char:EOLhyphen"/>munity, for the maintaining which every one ought to con<g ref="char:EOLhyphen"/>tribute his Talent, and his Prayers.</p>
+            <p>I wrote in charity with all Men, and at that time of the year, when in all Ages, ſucceeding the Nativity of our Bleſſed Saviour, the acts of Charity have been moſt at<g ref="char:EOLhyphen"/>tended to, and cultivated with the greateſt ceremony.</p>
+            <p>I ſhall add no more than what it may be is obvious, that I have taken St. <hi>Matthew</hi> Chapter by Chapter, and gathe<g ref="char:EOLhyphen"/>red the moſt remarkable paſſages out of the other Evangeliſts, as they ſeemed for time, coincident with, or prior to any part of St. <hi>Matthew</hi>'s Divine Record.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb n="1" facs="tcp:44584:3"/>
+            <head>An <hi>ESSAY</hi> towards an <hi>EPITOME</hi> of the GOSPEL of the <hi>BLESSED JESUS.</hi>
+            </head>
+            <lg>
+               <l>
+                  <hi>FAther of Lights!</hi> aſſiſt me <hi>from above.</hi>
+                  <note place="margin">James 1.17.</note>
+               </l>
+               <l>Whil'ſt I recount the wonders of thy love,</l>
+               <l>That love, which lay in Night and Myſtery,</l>
+               <l>'Till the <hi>Day-ſtar</hi> brought comfort from on high,<note place="margin">John.</note>
+               </l>
+               <l>(The tydings of Salvation drawing nigh)</l>
+               <l>That <hi>Phoſpher</hi> ſhew'd the yielding of the ſhade,</l>
+               <l>
+                  <hi>The Sun of Righteouſneſs</hi> our clear day made.<note place="margin">Mal. 4.2.</note>
+               </l>
+               <l>At <hi>ſundry times,</hi> in <hi>divers ways,</hi> thy Grace<note place="margin">Heb. 1.1.</note>
+               </l>
+               <l>Before had viſited fal'n Mortal Race,</l>
+               <l>Thy Prophets, like thick Stars, adorn'd the night,</l>
+               <l>They now are drown'd in the large ſource of light.</l>
+               <l>When <hi>the</hi> juſt <hi>fulneſs of the time</hi> was come,<note place="margin">Eph. 1.10.</note>
+               </l>
+               <l>Our Sun roſe not from Seas, but from the Virgins womb.</l>
+               <l>For us this <hi>Child</hi> was <hi>born, to us</hi> God<hi>'s Son</hi> is <hi>giv'n</hi>
+                  <note place="margin">Jſa. 9.6.</note>
+               </l>
+               <l>The greateſt Boon to Earth, and Gift of Heav'n:</l>
+               <l>Angels to ſee it clapt their Wings, and Sung,<note place="margin">Luke 2.13</note>
+               </l>
+               <l>And the enlight'ned Air with Anthems rung;</l>
+               <l>
+                  <hi>Glory to God, peace and good will on Earth,</hi>
+                  <note place="margin">V. 14.</note>
+               </l>
+               <l>Were the choice themes peculiar to this Birth;</l>
+               <l>The <hi>Shepherds,</hi> and the <hi>Wiſe-men</hi> ſaw his ray,<note place="margin">Mat. 2.11. &amp; Luke. 2.8.</note>
+               </l>
+               <l>Which led them where the Infant-glory lay;</l>
+               <l>To th' Conſecrated Stable of an <hi>Inn</hi>
+                  <note place="margin">Luke 2.16.</note>
+               </l>
+               <l>This Pilgrim came, who travel'd for our Sin.</l>
+               <l>
+                  <hi>All Prophets until</hi> John, did Chriſt declare,<note place="margin">Mat. 11.13.</note>
+               </l>
+               <l>He, and <hi>devout</hi> old <hi>Simeon</hi> ſaw him here;<note place="margin">Luke 2.25.</note>
+               </l>
+               <l>This <hi>Conſolation Simeon</hi> had in view,</l>
+               <l>The reveal'd Promiſe he with joy found true,</l>
+               <l>He ſaw th' <hi>Anointed</hi> e're Death clos'd his Eyes;<note place="margin">V. 26.</note>
+               </l>
+               <l>Sings his <hi>Dimittis,</hi> and goes home and Dyes:<note place="margin">V. 29.</note>
+               </l>
+               <pb n="2" facs="tcp:44584:4"/>
+               <l>"To a great Age he happily arriv'd,</l>
+               <l>"Who thus the miſery's of Age ſurviv'd.</l>
+               <l>
+                  <hi>Anne</hi> this reward had for <hi>pure Widowhood,</hi>
+                  <note place="margin">V. 37.</note>
+               </l>
+               <l>She her <hi>Redeemer</hi> early underſtood;<note place="margin">V. 38.</note>
+               </l>
+               <l>"The Spirit Printed in her ſpotleſs Breaſt</l>
+               <l>"Thoſe noti<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>s, whereby ſhe made the teſt.</l>
+               <l>Now he begins to ſhew himſelf Divine,</l>
+               <l>His opening Glory's in the <hi>Schools</hi> do ſhine;<note place="margin">V. 46.</note>
+               </l>
+               <l>But by degrees he to the World is ſhown,</l>
+               <l>Nor is his function yet t' his Mother known.<note place="margin">V. 48, 49, 50.</note>
+               </l>
+            </lg>
+            <lg>
+               <l>To grace the Miniſtry of <hi>John</hi> he ſtays,<note place="margin">Mat. 3.</note>
+               </l>
+               <l>And till his being Baptiz'd keeps in his rays;<note place="margin">V. 13.</note>
+               </l>
+               <l>But then the Heav'ns the ſhouts of Angels rend,</l>
+               <l>The <hi>Holy Ghoſt</hi> does viſibly deſcend,</l>
+               <l>The Son of God doth Eccho through the Air,</l>
+               <l>Myriads of Spirits his great Name declare.</l>
+            </lg>
+            <lg>
+               <l>Satan makes the laſt effort of deſpair;<note place="margin">Mat. 4.</note>
+               </l>
+               <l>His Kingdom, <hi>threatned the firſt day of's Reign,</hi>
+                  <note place="margin">Gen. 3.15.</note>
+               </l>
+               <l>He now ſaw falling to decay amain,</l>
+               <l>He knew 'twas fruitleſs, yet muſt bite his Chain;</l>
+               <l>Therefore he does all his Temptations lay</l>
+               <l>The <hi>Captain of Salvation</hi> to betray,<note place="margin">Heb. 2.1<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. Mat. 4.2.</note>
+               </l>
+               <l>He watcht his time, found him with Faſting faint,</l>
+               <l>"(Yet ſurely then ev'n Man hath moſt of Saint.)</l>
+               <l>Firſt he attempts him with great policy,</l>
+               <l>And his reliance on his God doth try,<note place="margin">V. 6.</note>
+               </l>
+               <l>But he is ſilenc'd by a quick reply:<note place="margin">V. 7.</note>
+               </l>
+               <l>
+                  <hi>The God of this World,</hi> doth for his laſt blow,<note place="margin">2 Cor. 4.4.</note>
+               </l>
+               <l>Offer him all the Empires here below,<note place="margin">Mat 4.9.</note>
+               </l>
+               <l>The God of Heav'n, who their Foundations laid,</l>
+               <l>By theſe poor trifles could not be betray'd;</l>
+               <l>The Prince of fallen-lights retir'd with ſhame,</l>
+               <l>And 'bout their Maſter <hi>Miniſt'ring Spirits</hi> came;<note place="margin">Heb. 1.14. Mat. 4.12.</note>
+               </l>
+               <l>
+                  <hi>To</hi> Galilee <hi>he goes</hi> in holy Flame:</l>
+               <pb n="3" facs="tcp:44584:4"/>
+               <l>Dev'ls and Diſeaſes fly before his Word,<note place="margin">V. 23.</note>
+               </l>
+               <l>And the moſt Rebel Pow'rs confeſs the Lord:</l>
+               <l>Four Spiritual Vicegerents here he choſe,<note place="margin">V. 18.</note>
+               </l>
+               <l>His Laws and Heav'nly miſſion to diſcloſe.</l>
+            </lg>
+            <lg>
+               <l>Here the firſt tranſcript of thoſe Laws he ſhows:<note place="margin">Mat. 5.</note>
+               </l>
+               <l>He makes it plain they'r for our good deſign'd,</l>
+               <l>That Bleſſedneſs is to obedience joyn'd,<note place="margin">a V. 3, ad V. 12.</note>
+               </l>
+               <l>With a <hi>Meek, Righteous, Patient, Peaceful</hi> mind.</l>
+               <l>He cleer'd the Moral Law, or natural,</l>
+               <l>(As in him was <hi>fulfill'd</hi> the typical.)<note place="margin">V. 17.</note>
+               </l>
+               <l>The <hi>Phariſees</hi> had long uſurp'd the <hi>Chair</hi>
+                  <note place="margin">Mat. 23.2.</note>
+               </l>
+               <l>Their Gloſſes did the Statutes force impair</l>
+               <l>It's reinforcement was our Saviour's care.</l>
+               <l>To prevent Sin he took it at the head,</l>
+               <l>And check'd thoſe thoughts which all its ſally's led.</l>
+               <l>
+                  <hi>Anger,</hi> and <hi>Luſt</hi> with a committing Eye<note place="margin">Mat. 5. a 22, ad 26, 28, &amp; 29.</note>
+               </l>
+               <l>(Thoſe Embrio's of Sin) he bids us fly.</l>
+               <l>Divorce he regulates, enacts this Law,</l>
+               <l>But for Adult'ry none from Wives withdraw.<note place="margin">V. 32.</note>
+               </l>
+               <l>A preſcript 'gainſt <hi>falſe Swearing</hi> was in force,<note place="margin">V. 33.</note>
+               </l>
+               <l>All kind of Oaths he baniſh'd, from diſcourſe.<note place="margin">a 34, ad 37.</note>
+               </l>
+               <l>
+                  <hi>Severe retaliation</hi> he withſtood,<note place="margin">a 38, ad 42.</note>
+               </l>
+               <l>For Evil he enjoin'd returns of good,</l>
+               <l>To <hi>love our Enemies,</hi> and <hi>wiſh them well,</hi>
+                  <note place="margin">V. 44. V. 45. Sic Sen. de Be<g ref="char:EOLhyphen"/>neſiciis. Et ſceleratis Sol oritur.</note>
+               </l>
+               <l>To ſtrive in goodneſs like our God t' excell,</l>
+               <l>God, who communicates his <hi>Sun</hi> to all,</l>
+               <l>Whoſe welcom ſhow'rs ev'n on the unjuſt fall.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Alms</hi> free from pomp, <hi>Pray'rs</hi> from Hypocriſy,<note place="margin">Mat. 6. a V. 1, ad 6.</note>
+               </l>
+               <l>He bids us give, and uſe, in privacy,</l>
+               <l>Leaſt our reward, here, in applauſe ſhould lye:</l>
+               <l>He ſhews us <hi>where,</hi> and <hi>how</hi> we ought to Pray,<note place="margin">V. 6, &amp; 7.</note>
+               </l>
+               <l>And doth a perfect Form before us lay:<note place="margin">a 9, ad 14.</note>
+               </l>
+               <l>Teaches to keep our <hi>Faſt</hi> unto the Lord,<note place="margin">V. 16.</note>
+               </l>
+               <l>And not by ſullen Face Proclaim't abroad:</l>
+               <pb n="4" facs="tcp:44584:5"/>
+               <l>"Secreſie Love, Religion that requires,</l>
+               <l>"Who would in either happy be, retires,</l>
+               <l>"Each by himſelf, with th' object of his love</l>
+               <l>"Sufficient <hi>Theatre,</hi> or Church, may prove:<note place="margin">Satis amplum alter alteri The<g ref="char:EOLhyphen"/>atrum ſumue.</note>
+               </l>
+               <l>"They who act to the World with Pomp and ſhow,</l>
+               <l>"Thoſe Secret Charms and Bleſſings rarely know;</l>
+               <l>"Yet though themſelves cannot the pleaſure find,</l>
+               <l>"They provoke others to be good, and kind.</l>
+               <l>We're taught to ſlight the per'ſhing Goods below,<note place="margin">V. 19.</note>
+               </l>
+               <l>And ſeek them where th' Eternal Fountains flow.<note place="margin">V. 20.</note>
+               </l>
+               <l>Chriſt proſcribes Avarice, that Luſt oth' Eye,<note place="margin">V. 23.</note>
+               </l>
+               <l>From Chriſtian confines forces it to fly,</l>
+               <l>Directs on <hi>God,</hi> not <hi>Mammon</hi> to rely;<note place="margin">V. 24.</note>
+               </l>
+               <l>To truſt his Providence, who <hi>Life</hi> did give,<note place="margin">V. 25.</note>
+               </l>
+               <l>Nor will with-hold what's requiſite to live:</l>
+               <l>
+                  <hi>To ſeek Heav'ns Kingdom, Righteouſneſs,</hi> its way,<note place="margin">V. 33.</note>
+               </l>
+               <l>Then theſe refreſhments he'l before us lay.</l>
+               <l>Our future ills we ſhould not <note n="*" place="margin">Quid enim ne<g ref="char:EOLhyphen"/>ceſſe eſt mala accerſere, &amp; ſa<g ref="char:EOLhyphen"/>tu cito patienda cum venerint, praeſumere. Eſt ſine dubio ſtultum quia quandoque ſis futurus miſer, eſ<g ref="char:EOLhyphen"/>ſo jam miſerum. <hi>Sen. Ep.</hi> 24.</note> antedate;<note place="margin">V 34.</note>
+               </l>
+               <l>But ſet our ſtrength to bear the preſent weight.</l>
+               <l>Each day yields pain enough of its own ſtore,</l>
+               <l>Surely we need not lay about for more:</l>
+               <l>But yet what e're our preſent preſſures prove,</l>
+               <l>We may have pow'r to bear them from above;</l>
+               <l>If we are ſinking, God will them remove.</l>
+               <l>Want is the chiefeſt ill we feel, or fear;</l>
+               <l>But the moſt helpleſs Creatures are Gods care,</l>
+               <l>Witneſs thoſe thoughtleſs Animals <hi>o'th' Air.</hi>
+                  <note place="margin">V 26.</note>
+               </l>
+               <l>God ſpreads their Table on the fruitful Ground,</l>
+               <l>Where the untreaſur'd Seeds lye ſcatter'd round,</l>
+               <l>He feeds, he decks them out with painted Wings,</l>
+               <l>And ſupplies Vegitables from hid Springs.<note place="margin">V. 28.</note>
+               </l>
+               <l>He gives the Verdure to the Graſſy Field,<note place="margin">V. 30.</note>
+               </l>
+               <l>And the enamel to the Flow'rs does yield:</l>
+               <l>Their various Colours his free Pencil drew,</l>
+               <l>He keeps them freſh ſteep'd in the Morning Dew.</l>
+               <pb n="5" facs="tcp:44584:5"/>
+               <l>He gives (though he don't ſatisfie deſire)</l>
+               <l>What e're the natures of his Works require:</l>
+               <l>He who has made us knows our needs the beſt:<note place="margin">V. 32.</note>
+               </l>
+               <l>Let's truſt in God, and he will do the reſt.</l>
+            </lg>
+            <lg>
+               <l>We're taught t' avoid the cens'ring other Men,<note place="margin">Mat. 7.1.</note>
+               </l>
+               <l>Leaſt the ſame <hi>Meaſure</hi> be return'd again,<note place="margin">V. 2.</note>
+               </l>
+               <l>Nor can our greater faults eſcape their note,</l>
+               <l>While we beſpatter them with open Throat.<note place="margin">a 3, ad 5.</note>
+               </l>
+               <l>Where we adviſe, or give, he bids us weigh;<note place="margin">V. 6.</note>
+               </l>
+               <l>That neither may be idly thrown away:</l>
+               <l>For what we want, with Faith in God to pray;<note place="margin">V. 7.</note>
+               </l>
+               <l>For if a Mortal Father pity bears<note place="margin">V. 9, 10, 11.</note>
+               </l>
+               <l>To's hungry Child, who asks for <hi>Bread</hi> with Tears,</l>
+               <l>Much more our Heav'nly Father kindly hears.</l>
+               <l>If we <hi>ask</hi> dayly Bread, <hi>ſeek</hi> Spiritual Grace,<note place="margin">V. 7, &amp; 8.</note>
+               </l>
+               <l>Or <hi>knock</hi> againſt the Door of Heav'n for place,</l>
+               <l>He gives, he grants, he opens to our cries,</l>
+               <l>And nothing to our fervent Pray'r denies.</l>
+               <l>"Much of this pow'r of Pray'r Nature conceiv'd,</l>
+               <l>"But now it with aſſurance is believ'd;</l>
+               <l>"And that old Text, <hi>do as you would have done,</hi>
+                  <note place="margin">V. 12.</note>
+               </l>
+               <l>"A confirmation from his Word hath won.</l>
+               <l>"Of future State Nature was in the dark,</l>
+               <l>"Under the Law 'twas <hi>Vailed</hi> like <hi>the Ark:</hi>
+                  <note place="margin">Exod. 40.3.</note>
+               </l>
+               <l>
+                  <hi>"Immortal Life</hi> our Saviour <hi>brought to view,</hi>
+                  <note place="margin">2 Tim. 1.10.</note>
+               </l>
+               <l>"And its unbeaten Path did plainly ſhew;</l>
+               <l>But yet he tells us, difficult's the way,<note place="margin">V. 13.</note>
+               </l>
+               <l>
+                  <hi>Falſe Prophets</hi> will attempt to make us ſtray,<note place="margin">V. 15.</note>
+               </l>
+               <l>Him we muſt follow with much pain and care,</l>
+               <l>And of thoſe <hi>Wolves in Sheep skins clad</hi> beware:</l>
+               <l>Works the Criterion are, whereby to know<note place="margin">V. 16.</note>
+               </l>
+               <l>Whether they'r real, or meer mask and ſhow.</l>
+               <l>Not ev'ry one that's long, and loud in Pray'r;<note place="margin">V. 21.</note>
+               </l>
+               <l>
+                  <hi>But he who doth Heav'n's Will,</hi> in Heav'n ſhall ſhare;</l>
+               <pb n="6" facs="tcp:44584:6"/>
+               <l>Their great pretences will appear but thin,<note place="margin">V. 22.</note>
+               </l>
+               <l>Though Zealots they ſhall have the price of Sin.<note place="margin">V. 23.</note>
+               </l>
+               <l>On yielding <hi>Sand</hi> they build a ſtately Pile,<note place="margin">V. 26.</note>
+               </l>
+               <l>Where ev'ry Wind makes ſport with all their toyl:</l>
+               <l>The Righteous on a <hi>Rock</hi> Foundations lay,<note place="margin">V. 24.</note>
+               </l>
+               <l>Their well-wrought Fabrick never ſhall decay;</l>
+               <l>Firm againſt all aſſaults of Wind and Rains;</l>
+               <l>For Chriſt, their Rock, his Edifice maintains.</l>
+               <l>"Thus the great Oracle with clearneſs taught,</l>
+               <l>"And that hid knowledge unto Nations brought,</l>
+               <l>"Which <hi>Prophets</hi> ſtrove to look into in vain,<note place="margin">Luke 10.24.</note>
+               </l>
+               <l>"And <hi>Ages</hi> had expected long with pain:<note place="margin">Coloſ. 1.26.</note>
+               </l>
+               <l>"Theſe Truths with num'rous beams of goodneſs join'd,</l>
+               <l>"Enlighten the dark corners of the mind.</l>
+               <l>Thus having fill'd Men's minds, his ſecond care</l>
+               <l>Is that their Bodies in his help ſhould ſhare,</l>
+               <l>And at a <hi>Wedding</hi> this doth firſt appear.<note place="margin">John 2.11.</note>
+               </l>
+               <l>"He did for mirth as well as want provide,</l>
+               <l>"While he by Miracle their Wine ſupply'd.</l>
+               <l>"By double Sanction Marriage proves Divine,</l>
+               <l>"In the firſt Gift of Woman, now of Wine.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Palſie,</hi> and <hi>Leproſie,</hi> thoſe mocks of Art,<note place="margin">Mat. 8.6, &amp; 3.</note>
+               </l>
+               <l>At the moſt pow'rful means, his Word, depart.</l>
+               <l>His touch remov'd the <hi>Feaver</hi> from the Veins,<note place="margin">V. 15.</note>
+               </l>
+               <l>He did but feel the Pulſe to end the pains.</l>
+               <l>In two poor wretches Satan held his Throne,</l>
+               <l>Keeping them under by's black <hi>Legion;</hi>
+                  <note place="margin">Mark 5.9.</note>
+               </l>
+               <l>Long had they revell'd in their harraſt Land,</l>
+               <l>But quit their Conqueſt at his ſole command.</l>
+               <l>
+                  <hi>An Herd of Swine</hi> are giv'n them for their prey,<note place="margin">Mat. 8 33.</note>
+               </l>
+               <l>"Thus doing hurt they go more pleas'd away.</l>
+               <l>Our Saviour further ſtill his pity ſhows,</l>
+               <l>And hears the <hi>Widow</hi>'s cries, relieves her woes;<note place="margin">Luke 7.12.</note>
+               </l>
+               <l>
+                  <hi>His Mother's onely Son</hi> left her alone,</l>
+               <l>She mourn'd her loſs, the joy of life was gone:</l>
+               <pb n="7" facs="tcp:44584:6"/>
+               <l>Life to her Son, the Son to her he gave,</l>
+               <l>Mocking the jaws of the expecting Grave.</l>
+            </lg>
+            <lg>
+               <l>Whilſt he was haſt'ning at the <hi>Ruler</hi>'s Pray'r,<note place="margin">Mat. 9.18.</note>
+               </l>
+               <l>
+                  <hi>His Daughter's</hi> mouldring Houſe of Clay t' repair,</l>
+               <l>His <hi>Virtue</hi> t' a believing Woman flows,<note place="margin">Luke 8.46.</note>
+               </l>
+               <l>Whoſe Bloody Flux Art did in vain oppoſe;<note place="margin">V. 43.</note>
+               </l>
+               <l>"Although amidſt a preſſing croud he ſtands,<note place="margin">V. 45.</note>
+               </l>
+               <l>"He feels her Faith more than an hundred Hands;</l>
+               <l>"How much ſoever that did from him drain,</l>
+               <l>"Enough to Cure the World did ſtill remain.</l>
+               <l>They who had clos'd <hi>Jairus</hi> his Daughter's Eyes,</l>
+               <l>
+                  <hi>Laught</hi> when he ſaid, behold aſleep ſhe lies!<note place="margin">Mat. 9.24.</note>
+               </l>
+               <l>But were confounded when they ſaw her riſe;</l>
+               <l>"She roſe to meet her King, and ſhall again,</l>
+               <l>"At his more pompous coming to his Reign.</l>
+               <l>"Thoſe two <hi>Blind Men</hi> whoſe Eyes he did reſtore<note place="margin">V. 27.</note>
+               </l>
+               <l>"The Light, Eclips'd by filme, had ſeen before;</l>
+               <l>"But now a new-born Sun more brightly ſhin'd;</l>
+               <l>"And yet perhaps to that they ſtill were Blind.</l>
+               <l>His wonders the <hi>Dumb</hi> Spirit did expreſs,<note place="margin">V. 32.</note>
+               </l>
+               <l>And ſoon the ſilent <hi>Fiſhes</hi> do no leſs.<note place="margin">Mat. 14.17. &amp; Mat. 15.34.</note>
+               </l>
+               <l>"Thing<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> moſt inſenſate duller Man upbraid</l>
+               <l>"At his command ev'n Stones would have obey'd,<note place="margin">Mat. 4.3.</note>
+               </l>
+               <l>"And <hi>Bread</hi> of their reformed ſubſtance made.</l>
+            </lg>
+            <lg>
+               <l>Now he his Deputies does reinſtate<note place="margin">Mat. 10.</note>
+               </l>
+               <l>In Empire uncontroll'd by <hi>Hell</hi> or Fate;<note place="margin">Mat. 16.18.</note>
+               </l>
+               <l>
+                  <hi>Twelve</hi> were thoſe Spirit'al Hero's, whom he choſe,<note place="margin">Mat. 10.1.</note>
+               </l>
+               <l>Dev'ls and diſeaſes trembling pow'rs t' oppoſe;</l>
+               <l>With large Commiſſion he does ſend them out,</l>
+               <l>To deal his common Grace to all about:</l>
+               <l>"Thus he his Kingdom carefully divides,</l>
+               <l>"For all by'mſelf, or Miniſters provides:</l>
+               <l>He bids them offer terms to <hi>Iſr'el</hi> firſt,<note place="margin">V. 6.</note>
+               </l>
+               <l>
+                  <hi>Iſr'el</hi> which for Heav'ns darling had been Nurs'd.</l>
+               <pb n="8" facs="tcp:44584:7"/>
+               <l>That they the <hi>Worthy</hi> ſhould ſalute with <hi>Peace,</hi>
+                  <note place="margin">V. 13.</note>
+               </l>
+               <l>From importuning the unworthy ceaſe.</l>
+               <l>They ſhould not truſt unguarded innocence,<note place="margin">V. 16.</note>
+               </l>
+               <l>But take to't Wiſdom for its beſt defence,</l>
+               <l>Under the covert of omnipotence.</l>
+               <l>Serpentine Wiſdom, Dove-like puritie,</l>
+               <l>Without th' Almighties ſhield will uſeleſs be.</l>
+               <l>He furniſheth with wards againſt all blows,</l>
+               <l>Who ev'ry thruſt, and diff'rent poſture knows:</l>
+               <l>Yet doth not always Miracles engage,</l>
+               <l>His Saints ſhould <hi>flee</hi> when perſecut'ions rage:<note place="margin">V. 23.</note>
+               </l>
+               <l>Though God aſſiſt not in a noted way,</l>
+               <l>Yet he the Plot for their eſcape may lay.</l>
+               <l>But ſhould th' inſulting Enemies prevail,</l>
+               <l>Their malice of the wiſh'd ſucceſs will fail.</l>
+               <l>Death is the greateſt miſchief of their hate,<note place="margin">V. 28.</note>
+               </l>
+               <l>Such death can't puniſh, or annihilate,</l>
+               <l>But does to everlaſting life tranſlate:</l>
+               <l>God only can the Soul to pain confine;</l>
+               <l>Eternal freedom comes from their deſign.</l>
+               <l>In a good cauſe who would not chuſe to dye?</l>
+               <l>The ill of death ith' circumſtance does lye.</l>
+               <l>For God, or for one's Country to expire,</l>
+               <l>Is the ambition of a noble Fire.</l>
+               <l>His Soul has little of th' orig'nal heat,</l>
+               <l>Who'd in a juſt, though dangerous cauſe, retreat.</l>
+               <l>Who danger ſeeks too much, his courage boaſts,</l>
+               <l>'Tis but a tempting of the Lord of Hoaſts:</l>
+               <l>He to ſuch ſtraglers promis'd no ſupply,</l>
+               <l>They'r but the Martyrs of their vanity.</l>
+               <l>
+                  <hi>Peace,</hi> the firſt bleſſing of a proſp'rous Reign,<note place="margin">V. 34.</note>
+               </l>
+               <l>In an unſetled Kingdom's ſought in vain:</l>
+               <l>Till Chriſt our Monarch, is own'd abſolute,</l>
+               <l>Each for his priviledge will hold diſpute;</l>
+               <l>Parents and Children divers factions head,<note place="margin">V. 35.</note>
+               </l>
+               <l>With zeal the Armies for the cauſe are led.</l>
+               <pb n="9" facs="tcp:44584:7"/>
+               <l>From Rights, and Life, ſee the malignants hurld,</l>
+               <l>T' attend their Soveraign in the other World;</l>
+               <l>Happy the ſuff'rers on the Loyal ſide,</l>
+               <l>For them their Royal Captain fought, and dy'd;</l>
+               <l>Through him we more then Conquer, though oppreſt,</l>
+               <l>And take the Garland in Eternal Reſt;</l>
+               <l>There our imperfect Services, ſincere,</l>
+               <l>Immenſe <hi>Reward</hi> ſhall through his merits bear.<note place="margin">V. 42.</note>
+               </l>
+            </lg>
+            <lg>
+               <l>To <hi>John,</hi> the <hi>Meſſenger</hi> of Peace from Heav'n,<note place="margin">Mat. 11.10.</note>
+               </l>
+               <l>An earneſt of his pay by Chriſt is giv'n.</l>
+               <l>"To firm aſſurance many' a Man pretends,</l>
+               <l>"The doubt of his our Saviour's plaudit ends.</l>
+               <l>"The World for ſuch a Viſion who'd not give?</l>
+               <l>"And till th' expected hour <hi>in Priſon</hi> live?<note place="margin">V. 2.</note>
+               </l>
+               <l>"The Soul would be enlarg'd to Heav'n, its home,</l>
+               <l>"By inchoation of the bliſs to come:</l>
+               <l>"To ſuch a ground of hope none may pretend;</l>
+               <l>"Yet leſſer lights ſhall reach that glorious end:</l>
+               <l>For Jeſus proffers to unlooſe thoſe Chains,</l>
+               <l>Which tie us unto Sin, that <hi>ſource of pains.</hi>
+                  <note place="margin">Lerna malo<g ref="char:EOLhyphen"/>rum.</note>
+               </l>
+               <l>The lab'ring with their Sins he doth invite,</l>
+               <l>Becauſe his <hi>Yoak is eaſie, burden light.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>He ſhews that God doth Humane wants regard,<note place="margin">Mat. 12. ad V. 8.</note>
+               </l>
+               <l>And that neceſſity's from nothing barr'd,</l>
+               <l>Which the <hi>Jews</hi> cavill'd when they ſaw, and heard.</l>
+               <l>The <hi>wither'd Hand</hi> reſtor'd gave them a blow,<note place="margin">V. 10, &amp; 13.</note>
+               </l>
+               <l>Yet whence it came the faithleſs would not know;</l>
+               <l>But fancy Satan would himſelf or'ethrow.<note place="margin">V. 24.</note>
+               </l>
+               <l>He ſhews that Sins repented pardon find,</l>
+               <l>But what are to Blaſpheme the Holy Ghoſt deſign'd:<note place="margin">V. 31.</note>
+               </l>
+               <l>But yet he cautions us with tender care,</l>
+               <l>That we of <hi>ev'ry idle word</hi> beware,<note place="margin">V. 36.</note>
+               </l>
+               <l>Words which loſe Heav'n, and often here enſnare;<note place="margin">V. 37.</note>
+               </l>
+               <pb n="10" facs="tcp:44584:8"/>
+               <l>They iſſue from <hi>the Heart,</hi> the Fountain head,<note place="margin">V. 34.</note>
+               </l>
+               <l>As is the Spring, ſuch ſtreams about are ſpread;</l>
+               <l>Except Repentance all doth purifie,</l>
+               <l>For them <hi>at Judgment</hi> large <hi>accounts</hi> will lye.<note place="margin">V. 36.</note>
+               </l>
+               <l>He marks the danger of relapſe in Sin,<note place="margin">V. 44.</note>
+               </l>
+               <l>Sickneſs, and Fiends return much <hi>worſe</hi> agen.<note place="margin">V. 45.</note>
+               </l>
+               <l>T' encourage Righteouſneſs, he doth declare,</l>
+               <l>
+                  <hi>Who do his Fathers Will</hi> his Brethren are,<note place="margin">V. 5<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note>
+               </l>
+               <l>And ſhall paternal Bleſſings with him ſhare.</l>
+            </lg>
+            <lg>
+               <l>God doth his Sacred Seed to all divide,<note place="margin">Mat. 13. a 3, ad 9.</note>
+               </l>
+               <l>And would have the whole World in Chriſt ally'd;</l>
+               <l>The product is according to the Ground,</l>
+               <l>He caſts his Seed to all the Furrows round,</l>
+               <l>But ſtrength in few to ripen it is found.</l>
+               <l>Satan, their nat'ral hardneſs, or acquir'd,</l>
+               <l>Will diſappoint the Harveſt long deſir'd;</l>
+               <l>Yet ſtill God's ready with his proffer'd Grace,</l>
+               <l>Till it to obſtinacy yields the place;</l>
+               <l>Judicial hardneſs then ſucceeds to theirs,</l>
+               <l>And they are wholly left the Devils ſhares:</l>
+               <l>They then are blinded 'cauſe they would not ſee,<note place="margin">V. 13, &amp; 14.</note>
+               </l>
+               <l>The greateſt light to them will darkneſs be.</l>
+               <l>But oh! how <hi>Bleſſed</hi> are thoſe open'd <hi>Eyes,</hi>
+                  <note place="margin">V. 16.</note>
+               </l>
+               <l>That ſee this Truth, and Worſhip where it lyes!</l>
+               <l>From ſmall beginnings Truth doth ſtrangely thrive,<note place="margin">V. 32.</note>
+               </l>
+               <l>Where they to propagate it's Seed do ſtrive,</l>
+               <l>In the prepared Soyl does quickly riſe,</l>
+               <l>Adorns the Earth, and reaches to the Skies;</l>
+               <l>It's way <hi>like Leaven,</hi> through the whole it makes,<note place="margin">V. 33.</note>
+               </l>
+               <l>Which thence a wholſom Savour freely takes,</l>
+               <l>
+                  <hi>The Son of Man</hi> imparts this <hi>Seed,</hi> this <hi>Leav'n,</hi>
+                  <note place="margin">V. 37.</note>
+               </l>
+               <l>By which we're ſtiled Sons of God, <note n="*" place="margin">
+                     <g ref="char:V">Ʋ</g>pon Earth they go by other &amp; worſe Names, according to that in Homer, <gap reason="foreign" resp="#OXF" extent="1 span">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> 
+                  <hi>in Heav'n:</hi>
+               </l>
+               <l>Whilſt <hi>Angels</hi> drive the reſt to deep deſpair,<note place="margin">V. 41.</note>
+               </l>
+               <l>At the laſt day, they'l hug their Wards, their care,</l>
+               <l>Proud of their charge will take them through the Air;</l>
+               <pb n="11" facs="tcp:44584:8"/>
+               <l>Wing them through all the Story's of the Sky,</l>
+               <l>Until they reach the Throne o'th' Deity;</l>
+               <l>In that Celeſtial Kingdom they ſhall reſt,</l>
+               <l>For ever ſinging, and for ever bleſt.</l>
+               <l>Who would not give the <hi>Indies</hi> for this Field,<note place="margin">V. 44.</note>
+               </l>
+               <l>Which unknown Treaſures, will, for ever, yield?</l>
+               <l>What <hi>Merchant</hi> would not for this Jewel Trade?<note place="margin">V. 45.</note>
+               </l>
+               <l>If we will ſtrike, Chriſt has our bargain made;</l>
+               <l>They who neglect loſe all they had before,</l>
+               <l>And never ſhall obtain the proffer more.</l>
+               <l>The pain of loſs, and twinging pain of ſence<note place="margin">V. 50.</note>
+               </l>
+               <l>Eternally to laſt, ſhall then commence.</l>
+               <l>Chriſt came to fiſh for Men, and all would take,<note place="margin">V. 47.</note>
+               </l>
+               <l>They who prove bad fall to th' Infernal Lake,</l>
+               <l>That Lake which burns with a ſulphureous Fire,</l>
+               <l>Where all degrees of Puniſhment conſpire.</l>
+            </lg>
+            <lg>
+               <l>Theſe awful Truths, and Works, ſpake more than Man,<note place="margin">Mat. 14.1.</note>
+               </l>
+               <l>Their ſpreading <hi>Fame</hi> through all the Confines ran:</l>
+               <l>
+                  <hi>The Tetrarch Herod</hi> trembled when he heard,</l>
+               <l>And, conſcious of his fault, <hi>John</hi>'s Ghoſt he fear'd.<note place="margin">V. 2.</note>
+               </l>
+               <l>"Vain was his fear, but vainer his ſurmiſe,</l>
+               <l>"To think that <hi>John</hi> could with ſuch Glory riſe;</l>
+               <l>"Thoſe borrow'd beams ſhot from the Neighb'ring Sun,</l>
+               <l>"To him the name of Lucid body won.</l>
+               <l>"<hi>John</hi> was the Moon i'th' Starry Hemiſphear,<note place="margin">Greateſt a<g ref="char:EOLhyphen"/>mongst the Prophets.</note>
+               </l>
+               <l>"But at the greater light muſt diſappear;</l>
+               <l>"To Rival him, or <hi>Herod,</hi> was too low;</l>
+               <l>Chriſt does in private to the Deſert go;<note place="margin">V. 13.</note>
+               </l>
+               <l>(Yet ſtill the Multitude his ſteps purſue,</l>
+               <l>"He's too conſpicuous to retire from view)</l>
+               <l>With double food doth there <hi>five thouſand</hi> feed,<note place="margin">Luke 9.14.</note>
+               </l>
+               <l>"And multiplies his bleſſings to their need;</l>
+               <l>
+                  <hi>Two Fiſhes,</hi> and <hi>five Loaves,</hi> do ev'n exceed.<note place="margin">Mat. 14.17.</note>
+               </l>
+               <l>To take an earthly Crown he's ſtrongly preſt,<note place="margin">John 6.15.</note>
+               </l>
+               <l>But by retirement ſhuns their mean requeſt;</l>
+               <pb n="12" facs="tcp:44584:9"/>
+               <l>There he converſes with his God alone,<note place="margin">Mat. 14.23.</note>
+               </l>
+               <l>In contemplation go's t' his Native Throne;</l>
+               <l>Thence his Diſciples need doth call him down.<note place="margin">V. 24.</note>
+               </l>
+               <l>They in a Tempeſt had their Anchor loſt,</l>
+               <l>Quitting their hold on him as they were toſt:</l>
+               <l>Although they ſaw him on the Waters come,<note place="margin">V. 25.</note>
+               </l>
+               <l>Their fear made him a Ghoſt to threat their Doom;<note place="margin">V. 26.</note>
+               </l>
+               <l>His charming voice allays their ſtormy fears.<note place="margin">V. 27.</note>
+               </l>
+               <l>Next on the Winds, and Seas, its Pow'r appears.</l>
+               <l>From having calm'd the Sea, he goes to Men,</l>
+               <l>And there his infl'uence ſpreads at large agen.</l>
+               <l>His ev'ry <hi>touch</hi> Diſeaſes force controuls,<note place="margin">V. 36.</note>
+               </l>
+               <l>His <hi>Cloths</hi> Cure Bodies, as his <hi>Words</hi> do Souls.<note place="margin">The Cloths of his thoughts.</note>
+               </l>
+            </lg>
+            <lg>
+               <l>The <hi>Phariſees,</hi> and captious <hi>Scribes</hi> he taught,<note place="margin">Mat. 15.1.</note>
+               </l>
+               <l>That God regards the <hi>Heart,</hi> and inward thought,<note place="margin">V. 19.</note>
+               </l>
+               <l>Whil'ſt that is pure no action can be naught.</l>
+               <l>Our rule we ſhould not from Tradition ſeek;</l>
+               <l>But hear what God, not Rabbi Doctors ſpeak.</l>
+               <l>At firſt <hi>a Woman</hi> Begging he deny'd,<note place="margin">V. 22.</note>
+               </l>
+               <l>But grants when he her <hi>Faith</hi> had fully try'd.<note place="margin">V. 28.</note>
+               </l>
+               <l>Now with <hi>few Fiſhes,</hi> and <hi>ſeven Loaves</hi> of Bread,<note place="margin">V. 34.</note>
+               </l>
+               <l>Mirac'louſly <hi>four thouſand Men</hi> are fed.<note place="margin">V. 38.</note>
+               </l>
+            </lg>
+            <lg>
+               <l>The <hi>Jewiſh</hi> Doctors of their two chief ſects,<note place="margin">Mat. 16.1.</note>
+               </l>
+               <l>With admirable knowledge he detects.</l>
+               <l>That latent <hi>Leaven,</hi> which ferments their Maſs,<note place="margin">V. 6.</note>
+               </l>
+               <l>Can by no means his great diſcernment paſs;</l>
+               <l>He ſees the Poyſon lye within the Glaſs.</l>
+               <l>He doth his Character more full expreſs,</l>
+               <l>And ſays, the <hi>Church</hi> ſhall him it's <hi>Rock</hi> confeſs;<note place="margin">V. 18.</note>
+               </l>
+               <l>That with his Miniſters he'l truſt its <hi>Keys,</hi>
+                  <note place="margin">V. 19.</note>
+               </l>
+               <l>To let in, or exclude whom e're they pleaſe:</l>
+               <l>He gave this comfort to lead in the News,</l>
+               <l>That they ſhould ſoon their ſacred Maſter loſe:</l>
+               <pb n="13" facs="tcp:44584:9"/>
+               <l>But <hi>Peter,</hi> like his Succeſſors, is bold,<note place="margin">V. 22.</note>
+               </l>
+               <l>And contradicts what Truth it ſelf had told;</l>
+               <l>But the Meſſias check'd his worldly thought;<note place="margin">V. 23.</note>
+               </l>
+               <l>Thence a diſcourſe o'th' price of Souls he brought;<note place="margin">V. 26.</note>
+               </l>
+               <l>He ſhews that they may well the Croſs endure,</l>
+               <l>To whom he would the Life to come enſure:</l>
+               <l>Their Souls above this lower World ſhould mount;</l>
+               <l>Since for their love to it they muſt account,</l>
+               <l>When he the glory's of his Throne diſplays,<note place="margin">V. 27.</note>
+               </l>
+               <l>Circled with Angels, clad in's Father's rays.</l>
+            </lg>
+            <lg>
+               <l>Of his Diſciples only three he choſe,<note place="margin">Mat. 17.1.</note>
+               </l>
+               <l>To whom his Heav'nly Aſpect he'd diſcloſe.</l>
+               <l>"The skirts of <hi>Glory Moſes</hi> did explore,<note place="margin">Exod. 33.23.</note>
+               </l>
+               <l>"It's ſhining Face was never ſeen before.</l>
+               <l>"Of old by <hi>goodneſss</hi> God himſelf expreſt,<note place="margin">V. 19.</note>
+               </l>
+               <l>"With it's full proſpect Man but now was bleſt.</l>
+               <l>
+                  <hi>"Moſes</hi> left life before he reach'd this Land;</l>
+               <l>
+                  <hi>He,</hi> and <hi>Elias,</hi> now do in it ſtand:<note place="margin">Mat. 17.3.</note>
+               </l>
+               <l>Tranſported <hi>Peter</hi> fain would ſettle here,<note place="margin">V. 4.</note>
+               </l>
+               <l>And erect Tabernacles in the Air;</l>
+               <l>While he asks leave Heav'n doth encloſe him round,<note place="margin">V. 5.</note>
+               </l>
+               <l>The Clouds divide, and make way for this ſound,</l>
+               <l>This is my dutiful, <hi>beloved Son,</hi>
+               </l>
+               <l>I will that unto him yee for Inſtruction run.</l>
+               <l>This ſound amazing to a Mortal Ear,<note place="margin">V. 6.</note>
+               </l>
+               <l>The rapt Diſciples could not ſtand to hear,</l>
+               <l>But kiſs the Ground, for reverence, and fear.</l>
+               <l>Again to help the wretched he deſcends,</l>
+               <l>And to his proper place <hi>the Devil</hi> ſends.<note place="margin">V. 13.</note>
+               </l>
+               <l>The want of <hi>Faith</hi> had rendred vain his Grace;<note place="margin">V. 20.</note>
+               </l>
+               <l>So 'gainſt the Servants Satan kept the place.<note place="margin">V. 16.</note>
+               </l>
+               <l>To Faith, and to it's Author, all things yield,</l>
+               <l>Mountains remove, and Spirits quit the Field;</l>
+               <l>But yet the Lord of all things <hi>Tribute</hi> pays,<note place="margin">V. 24.</note>
+               </l>
+               <l>And does by Miracle the Money raiſe:</l>
+               <pb n="14" facs="tcp:44584:10"/>
+               <l>Lo! in <hi>the Mouth</hi> of a <hi>Sea-Fiſh</hi> 'tis brought,<note place="margin">V. 27.</note>
+               </l>
+               <l>The Sea to own ſubjection thus is taught.</l>
+            </lg>
+            <lg>
+               <l>Earth's Pow'rs obey'd. He ſhews what Heav'n doth pleaſe,<note place="margin">Mat. 18.</note>
+               </l>
+               <l>That th' <hi>Humble</hi> minded thither riſe with eaſe;<note place="margin">V. 4.</note>
+               </l>
+               <l>That we like Children ſhould be innocent,<note place="margin">V. 5.</note>
+               </l>
+               <l>To aid thoſe darlings of th' Almighty bent;</l>
+               <l>Since tis of great concernment ſo to do,</l>
+               <l>
+                  <hi>Their</hi> Guardian <hi>Angels</hi> ſtanding in God's view;<note place="margin">V. 10.</note>
+               </l>
+               <l>Where they the ſev'ral Grievances diſcloſe,</l>
+               <l>And each the Man that hurt their Infant ſhows.</l>
+               <l>He bids us <hi>Hand,</hi> or <hi>Foot,</hi> or <hi>Eye</hi> remove,<note place="margin">V. 8, &amp; 9.</note>
+               </l>
+               <l>That inſtrumental to offences prove,</l>
+               <l>For there will be no want of them above.</l>
+               <l>He doth profeſs he came to ſave, to find,</l>
+               <l>Thoſe wretched ſtraglers, that loſt Flock, Mankind;</l>
+               <l>That in his Arms he hugs the bleating Stray,</l>
+               <l>More fond of one return'd, than all the reſt that ſtay.<note place="margin">V. 13.</note>
+               </l>
+               <l>Through him his Father's ready all to ſave;</l>
+               <l>Amongſt our ſelves we ſhould like Mercy have:</l>
+               <l>Our Brother's faults ſhould pardon, and conceal,<note place="margin">V. 15.</note>
+               </l>
+               <l>If he goes on to two or three reveal,<note place="margin">V. 16.</note>
+               </l>
+               <l>Who with grave admonitions ſhould begin:</l>
+               <l>The Pow'r Eccleſiaſtick next comes in.<note place="margin">V. 17.</note>
+               </l>
+               <l>The Church, ſo long at leaſt, the Keys retains,<note place="margin">1 Cor. 5.5.</note>
+               </l>
+               <l>As Satan o're th' excluded Members Reigns.</l>
+               <l>All kind of Bleſſings are to th' Church convey'd,</l>
+               <l>Whilſt Men Petitions in Chriſt's <hi>Name</hi> are made;</l>
+               <l>Where two or three ſhall join in Common-Pray'r,<note place="margin">V. 20.</note>
+               </l>
+               <l>He'l grace the Service with his Preſence there.</l>
+               <l>How great ſoe're's our Debt, if we ſubmit</l>
+               <l>Without full payment we ſhall ſtand acquit;<note place="margin">V. 27.</note>
+               </l>
+               <l>Then others to forgive is highly fit:<note place="margin">V. 33.</note>
+               </l>
+               <l>If we on them, God will exact on us,<note place="margin">V. 35.</note>
+               </l>
+               <l>To the unmerciful he's rigorous.</l>
+               <pb n="15" facs="tcp:44584:10" rendition="simple:additions"/>
+               <l>The Doctors jealous of this true new light,<note place="margin">Mat. 19.</note>
+               </l>
+               <l>Forcing it ſelf upon their Scene, the Night,</l>
+               <l>That Night, where Laws for retribution lay,</l>
+               <l>With Clouds of Cavils ſtrive t' obſcure the day;</l>
+               <l>To them his Law of Marriage he maintains,<note place="margin">V. 9.</note>
+               </l>
+               <l>That nothing but <hi>Adultry</hi> breaks it's Chains;<note place="margin">V. 10. All Men cannot receive this ſaying, ſave they to whom it is given.</note>
+               </l>
+               <l>But intimates, if God give continence,</l>
+               <l>A ſingle Life is beſt, and freeſt from offence.</l>
+               <l>"He's happy, who his thoughts on Heav'n does place,</l>
+               <l>"Strong Nature being curb'd by ſtronger Grace,<note place="margin">V. 12. There be Eunuchs which have made themſelves Eu<g ref="char:EOLhyphen"/>nuchs for the Kingdom of Heavens ſake: He that is able to receive it let him receive it.</note>
+               </l>
+               <l>"That manifeſts 'tis onely Divine Love,</l>
+               <l>"Makes him inſenſible to others prove:</l>
+               <l>"But Men will ſtill be Men though they believe;</l>
+               <l>"This immaterial Doctrin few <hi>receive:</hi>
+               </l>
+               <l>"Nor is't expected of them, for if 'twere,</l>
+               <l>"They'd need thoſe harſh initiations bear,</l>
+               <l>"Which ſuperſtitious Heatheniſm requir'd,</l>
+               <l>"To purge the Soul from all it here acquir'd:</l>
+               <l>"And bring it to the ſtate, ſuppos'd, it had</l>
+               <l>"E're 'twas with an infecting Body clad;</l>
+               <l>"That Body which muſt now be ſatisfi'd,</l>
+               <l>"As well as the thin ſubſtance to it ty'd:</l>
+               <l>"Pleaſure's the gluten which doth both cement,</l>
+               <l>"That periſh'd, they will part in diſcontent.</l>
+               <l>Here Grace on Children our Arch-biſhop ſheds,</l>
+               <l>His Hands in Confirmation bleſs their Heads,<note place="margin">V. 15.</note>
+               </l>
+               <l>To all that come he bright inſtruction ſpreads.</l>
+               <l>A Rich <hi>young Man</hi> in heat to Heav'n would go,<note place="margin">V. 20.</note>
+               </l>
+               <l>And the poſſeſſions 'bove the Stars would know;</l>
+               <l>But would not part with his acquiſts below:</l>
+               <l>He lov'd his God, and Neighbour, Mammon too:</l>
+               <l>Our Saviour thence takes notice of the ſnares,<note place="margin">V. 23.</note>
+               </l>
+               <l>Which lie in Riches, and in worldly Cares:</l>
+               <l>The God of comforts large account will make</l>
+               <l>Of whatſoe're we part with for Chriſt's ſake;</l>
+               <pb n="16" facs="tcp:44584:11"/>
+               <l>His twelve Apoſtles <hi>on twelve Thrones</hi> he'l place,<note place="margin">V. 28.</note>
+               </l>
+               <l>And give Eternal Life to th' ſelf-denying race.</l>
+            </lg>
+            <lg>
+               <l>God no reſpect will to Man's merit bear,<note place="margin">Mat. 20. ad</note>
+               </l>
+               <l>Who e're will Work ſhall equal payment ſhare;</l>
+               <l>Although we come i'th' cloſing of the day.</l>
+               <l>When e're we anſwer to the call, he'l pay.<note place="margin">V. 10.</note>
+               </l>
+               <l>Many come in at firſt, but fail at laſt,<note place="margin">V. 16.</note>
+               </l>
+               <l>For ever happy he whoſe Tryal's paſt!</l>
+               <l>The merit of Chriſt's Death being thus declar'd,</l>
+               <l>For the <hi>Deſcription</hi> of it they'r prepar'd.<note place="margin">V. 18, &amp; 19.</note>
+               </l>
+               <l>"The name of Death is not ſo direful known,</l>
+               <l>"As when its circumſtance and manner's ſhown;</l>
+               <l>But now they'r ſtrong enough, to bear that, grown.</l>
+               <l>It thus being plain his Kingdom's not below,</l>
+               <l>For an high place above he's preſt for two;<note place="margin">V. 21.</note>
+               </l>
+               <l>But he declares Ambition's not the way.</l>
+               <l>Their Maſter, here, himſelf did loweſt lay.<note place="margin">V. 28.</note>
+               </l>
+               <l>Illuminating thus the dark'ned mind,</l>
+               <l>He next with groapt-for Sight ſalutes the Blind.<note place="margin">V. 30.</note>
+               </l>
+            </lg>
+            <lg>
+               <l>He doth his right in worldly Goods to ſhare<note place="margin">Mat. 21.</note>
+               </l>
+               <l>But once (and for a Propheſie) declare;<note place="margin">V. 4.</note>
+               </l>
+               <l>For that, the Aſs, and Colt he did command<note place="margin">V. 2.</note>
+               </l>
+               <l>(The Word <hi>o'th' Lord</hi> no Owner could withſtand.)<note place="margin">V. 3.</note>
+               </l>
+               <l>Then on the Beaſt, ſo Sanctifi'd, did ride,<note place="margin">V. 7.</note>
+               </l>
+               <l>While the admiring croud <hi>Hoſanna</hi> cry'd.<note place="margin">V. 9.</note>
+               </l>
+               <l>Come to <hi>Jeruſalem</hi> he takes no Crown,</l>
+               <l>But pulls their Idols from <hi>the Temple</hi> down.<note place="margin">V. 12.</note>
+               </l>
+               <l>Money uſurp'd the Worſhip due to God,<note place="margin">V. 13.</note>
+               </l>
+               <l>Under his Feet their bafled hopes he trod.</l>
+               <l>Sinners he to him took, but to reform,</l>
+               <l>He thruſts them from the Temple in a Storm.</l>
+               <l>He that by's preſence, and his Works does cleanſe,</l>
+               <l>And drives Diſeaſes and ſick minds from thence;<note place="margin">V. 14.</note>
+               </l>
+               <l>Approves himſelf a Prophet, and a Prince.</l>
+               <pb n="17" facs="tcp:44584:11"/>
+               <l>Recounts the bleſſings of his happy Raign,</l>
+               <l>That Pray'rs through him are ne're put up in vain;<note place="margin">V. 22.</note>
+               </l>
+               <l>His Pow'r is queſtion'd by Phanatick <hi>Jews,</hi>
+                  <note place="margin">V. 23.</note>
+               </l>
+               <l>Which he at large with their rejection ſhews,<note place="margin">a 33, ad 42.</note>
+               </l>
+               <l>Who the laſt method of God's Grace refuſe.</l>
+            </lg>
+            <lg>
+               <l>God hath invited <hi>many</hi> to his Feaſt;<note place="margin">Mat. 22.</note>
+               </l>
+               <l>But it is rare to find a worthy Gueſt;<note place="margin">Luke 14.5.</note>
+               </l>
+               <l>Some for their <hi>Maſter</hi> Mammon cannot come,<note place="margin">Mat. 22.5.</note>
+               </l>
+               <l>Some for expecting <hi>Miſtreſſes</hi> at home:<note place="margin">Luke 14.20.</note>
+               </l>
+               <l>His Feaſt theſe undervalue, more deſpiſe,</l>
+               <l>And to their ſcorn his Servants ſacrifice.<note place="margin">V. 6.</note>
+               </l>
+               <l>One will pretend to be God's choſen one;<note place="margin">V. 11.</note>
+               </l>
+               <l>But by his filthy rags of Sin is known,</l>
+               <l>And into <hi>utter darkneſs</hi> juſtly thrown.<note place="margin">V. 13.</note>
+               </l>
+               <l>Our Lord doth all by means ſufficient call,</l>
+               <l>Themſelves do render't ineffectual.</l>
+               <l>The <hi>Phariſees</hi> who found themſelves reprov'd</l>
+               <l>(Correctors of great faults are ſeldom lov'd)</l>
+               <l>Before <hi>his life,</hi> his words now, <hi>ſought</hi> t' enſnare,<note place="margin">Mat. 21.48. They ſought to lay hands on him.</note>
+               </l>
+               <l>To take him from his guard <hi>they rev'rence bear,</hi>
+                  <note place="margin">V. 16.</note>
+               </l>
+               <l>He, like an Oracle of doubtful ſenſe,</l>
+               <l>Sends them away in wonder, and ſuſpence:<note place="margin">V. 22.</note>
+               </l>
+               <l>
+                  <hi>The Sadduces,</hi> more drown'd in body, thought<note place="margin">V. 23.</note>
+               </l>
+               <l>They had a Queſtion far more ſubtle brought;</l>
+               <l>He anſwer'd cleerly, yet above their Spheres,</l>
+               <l>For he brought <hi>Spir'ts</hi> and <hi>Angels</hi> to their Ears:<note place="margin">Acts 23.8.</note>
+               </l>
+               <l>But now <hi>the Phariſees</hi> rally again,<note place="margin">Mat. 22.34.</note>
+               </l>
+               <l>They thought the <hi>Lawyer</hi> might their Plea maintain,<note place="margin">V. 35.</note>
+               </l>
+               <l>His ſingle Quere ſoon is ſatisfi'd,<note place="margin">a 36, ad 41.</note>
+               </l>
+               <l>He dare not move again to have it try'd,</l>
+               <l>Doth Chriſt's abridgment of the Law approve,</l>
+               <l>That it is all contracted into love,</l>
+               <l>Only to know it's true extent doth move;<note place="margin">Luke 10.29.</note>
+               </l>
+               <l>Chriſt ſhews it reaches to the higheſt Heav'n,</l>
+               <l>And o're the Earth where any object's giv'n;</l>
+               <pb n="18" facs="tcp:44584:12"/>
+               <l>He is our Neighbour who does want our aid,<note place="margin">Luke 10.37.</note>
+               </l>
+               <l>Vicinity is by diſtreſſes made:</l>
+               <l>To all that need, like God, we ſhould be nigh:</l>
+               <l>
+                  <hi>None durſt ask more, as none could now reply.</hi>
+                  <note place="margin">Mat. 22.46.</note>
+               </l>
+            </lg>
+            <lg>
+               <l>Our Saviour next, as for late times deſcribes<note place="margin">Mat. 23.</note>
+               </l>
+               <l>Lay-Elders, Phariſees, the Teachers, Scribes,<note place="margin">V. 2. V. 7.</note>
+               </l>
+               <l>Affecting <hi>Rabbi,</hi> as ours, name of Saint;</l>
+               <l>More then <hi>the Whore</hi> they laſh, bedaub'd with Paint:<note place="margin">Of Babylon. V. 27. V. 6.</note>
+               </l>
+               <l>The precious Teacher muſt have th' upper place,</l>
+               <l>Whence he deals bleſſings to his Babes of Grace.</l>
+               <l>His zealous <hi>Pray'r</hi> doth ſanctifie the Meats,<note place="margin">V. 14.</note>
+               </l>
+               <l>More the Devotion with which he eats:</l>
+               <l>He ſwallows <hi>Widows, Houſe,</hi> and Soul and all,</l>
+               <l>Whilſt the poor ſilly Flock anſwer his call;</l>
+               <l>But theſe, alas! much greater Bigots grow,<note place="margin">V. 15.</note>
+               </l>
+               <l>(For the moſt ignorant are always ſo.)</l>
+               <l>But ſure they could not wheedle many in,</l>
+               <l>If Cobweb-niceties they did not ſpin,<note place="margin">a 16, ad 23.</note>
+               </l>
+               <l>Whereby with a diſtinction Men may Sin.</l>
+               <l>Except their Tribe, they <hi>Heav'n deny</hi> to all,<note place="margin">V. 13.</note>
+               </l>
+               <l>But unto them 'tis unconditional:</l>
+               <l>Yet about room they need not be ſevere;</l>
+               <l>For they are never likely to come there,</l>
+               <l>Whilſt they the utmoſt of Religion place</l>
+               <l>In the preciſeneſs of the Garb, and Face;</l>
+               <l>In little rigors which God ne're requir'd,</l>
+               <l>And the Traditions of a Man admir'd,</l>
+               <l>But paſs-by juſtice, mercy, charity,<note place="margin">V. 23.</note>
+               </l>
+               <l>Let them as lower diſpenſations lye;</l>
+               <l>Yet their Redeemer taught them better things,</l>
+               <l>And for this ſcatter'd Fowl extends his <hi>Wings.</hi>
+                  <note place="margin">V. 37.</note>
+               </l>
+            </lg>
+            <lg>
+               <l>Sin being taxt. he fore-tells puniſhment,<note place="margin">Mat. 24.</note>
+               </l>
+               <l>Revealing angry Heav'ns moſt dire intent:</l>
+               <pb n="19" facs="tcp:44584:12"/>
+               <l>The deſolation of the ſtubborn <hi>Jews,</hi>
+               </l>
+               <l>A faint reſemblance of the World's, he ſhews;</l>
+               <l>That great Cataſtrophe he ſaw moſt cleer;</l>
+               <l>Yet would not fix the time, but point to't <hi>near:</hi>
+                  <note place="margin">V. 33.</note>
+               </l>
+               <l>He marks the Symptoms of the World's decay,</l>
+               <l>What tumults to its feaver lead the way:</l>
+               <l>
+                  <hi>Falſe Prophets,</hi> and <hi>falſe Chriſts</hi> ſhall fill the Stage,<note place="margin">V. 24.</note>
+               </l>
+               <l>Ills in themſelves, as they the laſt preſage:</l>
+               <l>Ev'n <hi>the Elect</hi> had need be on their Guard,</l>
+               <l>'Gainſt them and the great foll'wing day prepar'd;</l>
+               <l>The careleſs they'l to their ſubjection bring,</l>
+               <l>Apeing with <hi>wonders</hi> the Prophetick King;</l>
+               <l>He will the Earth from theſe foul Monſters cleer;</l>
+               <l>But in a day unlook'd for will appear:<note place="margin">V. 42, &amp; 50.</note>
+               </l>
+               <l>Angelick Trumpeters ſhall go before,<note place="margin">V. 31.</note>
+               </l>
+               <l>Whilſt through the Clouds our Sov'raign Judge is bore,</l>
+               <l>To circuit all the whole Creation o're;</l>
+               <l>Who would not let him here poſſeſs his Throne,</l>
+               <l>Their baſe Rebellion ſhall for ever moan:</l>
+               <l>They for a while may Lord it o're th' Elect;<note place="margin">V. 49.</note>
+               </l>
+               <l>Chriſt ſoon will caſt them down, his own Erect.</l>
+               <l>They may oppreſs, and revel with their ſpoil;</l>
+               <l>But ſure-avenging Heav'n does mock the while,</l>
+               <l>Heav'n, that at their calamity will ſmile:</l>
+               <l>But they who true to their Great Maſter prov'd,<note place="margin">V. 46.</note>
+               </l>
+               <l>Shall be t' advancement in the Skies remov'd,</l>
+               <l>Their prudence, juſtice, temp'rance, being approv'd.</l>
+            </lg>
+            <lg>
+               <l>Such Spiritual promotion all would reach,<note place="margin">Mat. 25.</note>
+               </l>
+               <l>That many fail this Preaching King doth teach;</l>
+               <l>Not through the want of the bleſt Bridegroom's call,</l>
+               <l>Though the <hi>Oyl</hi> were not, that was general:<note place="margin">V. 8.</note>
+               </l>
+               <l>Who have not the conditions of their own,</l>
+               <l>Truſt vainly ſupererrogation:<note place="margin">V. 8.</note>
+               </l>
+               <l>God gave to all <hi>Talents</hi> enough t' improve,<note place="margin">V. 15.</note>
+               </l>
+               <l>That others thrive doth but our ſloth reprove:</l>
+               <pb n="20" facs="tcp:44584:13"/>
+               <l>He will exact a juſt and full account,</l>
+               <l>Whilſt it lies ſtill the Int'reſt high will mount.<note place="margin">V. 27.</note>
+               </l>
+               <l>Thoſe happy Servants that put out to Trade,</l>
+               <l>Returns ineſtimable will have made,<note place="margin">a 35, ad 41.</note>
+               </l>
+               <l>Eſpecially for what with' <hi>Poor</hi> is laid;</l>
+               <l>Chriſt takes upon himſelf what they contract,</l>
+               <l>They as receivers under him do act;</l>
+               <l>Who thoſe his Miniſters miſuſe or ſlight,</l>
+               <l>He at the Righteous Judgment will requite:</l>
+               <l>Good, and ill Offices with him are weigh'd,</l>
+               <l>And to the full large compenſation made.</l>
+            </lg>
+            <lg>
+               <l>The Teachers, and the Elders of the <hi>Jews,</hi>
+                  <note place="margin">Mat. 26.3.</note>
+               </l>
+               <l>Whoſe miſerable lot he plainly ſhews,</l>
+               <l>Vext by that Mouth, which proclaim'd future Fire,</l>
+               <l>To put to Death the Lord of Life conſpire.<note place="margin">V. 4.</note>
+               </l>
+               <l>At <hi>Simon</hi>'s <hi>Houſe</hi> as he at Table ſate,<note place="margin">V. 6.</note>
+               </l>
+               <l>She her own memory did conſecrate,</l>
+               <l>Who <hi>on his</hi> precious <hi>Head</hi> the Oyl did pour;<note place="margin">V. 7.</note>
+               </l>
+               <l>That unction took againſt the ſupream hour.</l>
+               <l>Our Saviour knowing that his end was nigh,</l>
+               <l>His Houſe in order ſets before he dye,</l>
+               <l>Bleſt Tokens of his love he leaves behind,</l>
+               <l>Symbols to repreſent himſelf deſign'd:<note place="margin">V. 26, 27, 28.</note>
+               </l>
+               <l>
+                  <hi>"O Lord! for evermore give me this Bread,</hi>
+                  <note place="margin">John 6.34.</note>
+               </l>
+               <l>"That Wine, that precious Blood for Sinners ſhed.</l>
+               <l>"Now the laſt Scene of wickedneſs is near,</l>
+               <l>"The Clouds forerunners of the Storm appear;</l>
+               <l>"The Serpent ſpreads his Venom in a <hi>kiſs,</hi>
+                  <note place="margin">V. 49.</note>
+               </l>
+               <l>"(To ills there always a fair preface is)</l>
+               <l>"Who Troops of Angels had at his command,</l>
+               <l>"Would not uſurping Earthly pow'rs withſtand;</l>
+               <l>"His Kingdom, like the Path he ſhews, is peace,</l>
+               <l>"'Twas told, War and its Emblems, Swords, ſhould ceaſe,<note place="margin">Iſa. 2.4.</note>
+               </l>
+               <l>"He here in part made good that Prophet's word,</l>
+               <l>"Whilſt in his ſervice he condemns <hi>the Sword.</hi>
+                  <note place="margin">V. 52.</note>
+               </l>
+               <pb n="21" facs="tcp:44584:13"/>
+               <l>Himſelf he does t'his Rebels Pris'ner make;<note place="margin">V. 57.</note>
+               </l>
+               <l>His Servants then their captive Lord forſake;<note place="margin">V. 56.</note>
+               </l>
+               <l>Yet <hi>Peter</hi> always forward, follow'd near,<note place="margin">V. 58.</note>
+               </l>
+               <l>But ſoon diſcover'd the worſt kind of fear;</l>
+               <l>"(So hot-heads always prove when danger's nigh,</l>
+               <l>"Only the mod'rate promiſe conſtancy:)</l>
+               <l>His Lord he <hi>had oppos'd,</hi> but now deny'd,<note place="margin">Mat. 16.22.</note>
+               </l>
+               <l>This out of weakneſs, t'other out of pride,</l>
+               <l>Mov'd with the ſenſe of Guilt he went and cry'd.<note place="margin">Mat. 26.75.</note>
+               </l>
+            </lg>
+            <lg>
+               <l>But ſtill the hardned <hi>Jews</hi> their Work purſue,<note place="margin">Mat. 27.1.</note>
+               </l>
+               <l>Put on thoſe Chains they muſt for ever rue,<note place="margin">V. 2.</note>
+               </l>
+               <l>And unto <hi>Pilate</hi> brought their Pris'ner bound;</l>
+               <l>But <hi>Pilate</hi> ſoon their canker'd <hi>envy</hi> found:<note place="margin">V. 18.</note>
+               </l>
+               <l>Beſides, an Angel on <hi>his Wife</hi> impreſt<note place="margin">V. 19.</note>
+               </l>
+               <l>Thoſe characters of Chriſt, which fill'd her breaſt,</l>
+               <l>Till ſhe declar'd them ſhe could have no reſt.</l>
+               <l>"Yet ſee the Pow'r of importunity!</l>
+               <l>"His Judgment, and his Wife he doth deny;</l>
+               <l>"'Cauſe for pretended Juſtice loudly urg'd,</l>
+               <l>He yields, and by no <hi>Water</hi> can be purg'd.<note place="margin">V. 24.</note>
+               </l>
+               <l>He loads with ſtripes him who did bear our Sins;<note place="margin">V. 26.</note>
+               </l>
+               <l>"The condemnation of the <hi>Jews</hi> begins:</l>
+               <l>"Hence is their Epocha of mournful times;</l>
+               <l>They cloath him with the colour of their crimes:<note place="margin">V. 28. A Scar<g ref="char:EOLhyphen"/>let Robe.</note>
+               </l>
+               <l>
+                  <hi>A Crown of Thorns</hi> they planted on his Head;<note place="margin">V. 29.</note>
+               </l>
+               <l>
+                  <hi>In his Right Hand</hi> for Scepter plac'd <hi>a Reed;</hi>
+               </l>
+               <l>To this mock'd King they in deriſion bow,</l>
+               <l>Their freedom by <hi>unrobing</hi> him avow,<note place="margin">V. 31.</note>
+               </l>
+               <l>Treat him with blows and ſupercilious brow.</l>
+               <l>They further yet their poyſon'd malice own,</l>
+               <l>Nothing but Crucifiction could atone,</l>
+               <l>That Prophecy, and that their rage requir'd,</l>
+               <l>And they obtain'd the iſſue they deſir'd:<note place="margin">V. 35.</note>
+               </l>
+               <l>With <hi>two</hi> known <hi>Thieves</hi> he that ſecur'd Mankind,<note place="margin">V. 38.</note>
+               </l>
+               <l>T' improve the malice by the ſcandals, join'd.</l>
+               <pb n="22" facs="tcp:44584:14"/>
+               <l>"Happy that choſen Thief whom God did make,</l>
+               <l>"To ſhew how ſoon he'l Man to Mercy take!</l>
+               <l>Chriſt with him carry'd the late penitent,</l>
+               <l>To <hi>Paradiſe</hi> immediately he went.<note place="margin">Luke 23.43.</note>
+               </l>
+               <l>If Men to Heav'n their former habits <note n="*" place="bottom">This life is the time of our preparation for our future ſtate, ſuch a temper and diſpoſition of mind as a Man carries with him out of this life, he ſhall retain in the next. 'Tis true indeed, Heaven perfects thoſe holy and vertuous diſpoſitions which are begun here; but the other World alters no Man as to his main State. <hi>Tillotſons</hi> Sermons, pag. 33. Edit. 2.</note> bear,</l>
+               <l>Perhaps it may ſeem ſtrange what he does there;</l>
+               <l>But the frame of his mind was alter'd here.</l>
+               <l>Who'l ſay that ſo late penitence as this,</l>
+               <l>Can now be true, or have reward with his?</l>
+               <l>Yet that becomes not us to look into,</l>
+               <l>Let us but keep what is reveal'd in view:</l>
+               <l>See how Chriſt's goodneſs triumph'd o're his foes,</l>
+               <l>Ev'n to his Murtherers he bleſſings throws:<note place="margin">Luke 23.34.</note>
+               </l>
+               <l>He, who ne're ask'd in vain free pardon brought</l>
+               <l>
+                  <hi>For them</hi> could think they did but what they ought.</l>
+               <l>
+                  <hi>Some</hi> thought they did God ſervice by his end,</l>
+               <l>Who did not to his Miracles attend;</l>
+               <l>Their ign'rance might with care have conquer'd been:</l>
+               <l>They ſtood in need of Pardon for that Sin.</l>
+               <l>"And thus that Holy Lamb both liv'd and dy'd,</l>
+               <l>"Equal to God without aſſuming pride,<note place="margin">Philip. 2.6.</note>
+               </l>
+               <l>"And yet to Man in fleſh and pain ally'd.</l>
+               <l>Affright'ned Nature trembling ſhook the Earth,<note place="margin">V. 51.</note>
+               </l>
+               <l>To ſee him dye who gave to all things Birth;</l>
+               <l>
+                  <hi>The Rocks</hi> divide, while Men their Hearts did cloſe,</l>
+               <l>
+                  <hi>The Temple Rent,</hi> and <hi>ſleeping Saints aroſe:</hi>
+                  <note place="margin">V. 52.</note>
+               </l>
+               <l>"And well they might, his death did Hell controul,</l>
+               <l>"And to the Grave infus'd a quick'ning Soul.</l>
+               <l>Good <hi>Joſeph</hi> his own name kept from decay,<note place="margin">V. 57.</note>
+               </l>
+               <l>While he embalm'd the God-head's Corps of Clay,</l>
+               <l>And did <hi>in's Tomb</hi> that ſacred relick lay.<note place="margin">V. 60.</note>
+               </l>
+            </lg>
+            <pb n="23" facs="tcp:44584:14"/>
+            <lg>
+               <l>Chriſt, who prepares our Manſions in the Skies,<note place="margin">Mat. 28.</note>
+               </l>
+               <l>Had done the ſame for what intomb'd here lies:</l>
+               <l>Now it he reaſſumes to ſhew to Men;<note place="margin">V. 9.</note>
+               </l>
+               <l>His Church being fix'd, with it returns agen:</l>
+               <l>Thither to intercede for Man he went,</l>
+               <l>Whence Grace through him is from the Father ſent:</l>
+               <l>He promis'd, and 'tis ſure he never ly'd,</l>
+               <l>He will for ever with his Church abide;<note place="margin">V. 20.</note>
+               </l>
+               <l>"Yet to it here his Sp'rit's by meaſure giv'n,</l>
+               <l>"Whilſt it remains a Candidate for Heav'n,</l>
+               <l>"That place, which he aroſe t' aſſure to his,</l>
+               <l>"Conſummates Grace in an unmeaſur'd bliſs:</l>
+               <l>"May I, the meaneſt Member that attain,</l>
+               <l>"And, Lord! ſubject me here to thy moſt equal Raign!</l>
+            </lg>
+            <epigraph>
+               <q>
+                  <hi>SIT SOLI DEO GLORIA.</hi>
+               </q>
+            </epigraph>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
